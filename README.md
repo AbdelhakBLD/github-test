@@ -1,2 +1,3 @@
-# github-test
-test commandes git
+# Contenu du repository
+- Initiation Markdown
+- Test commandes git
